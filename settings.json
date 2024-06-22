@@ -1,7 +1,7 @@
 {
   "bot-account": {
     "username": "baldgod06",
-    "password": "baldgod",
+    "password": "",
     "type": "mojang"
   },
 
@@ -21,18 +21,18 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "pass"
+      "password": "baldgod"
     },
 
     "anti-afk": {
-      "enabled": true,
-      "sneak": true
+      "enabled": false,
+      "sneak": false
     },
 
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 300,
+      "repeat-delay": 200,
 
       "messages": [
         "/skyblock",
