@@ -1,7 +1,7 @@
 {
   "bot-account": {
-    "username": "username",
-    "password": "",
+    "username": "baldgod06",
+    "password": "baldgod",
     "type": "mojang"
   },
 
@@ -36,7 +36,7 @@
 
       "messages": [
         "/skyblock",
-        "msg"
+        "/is warp herobest1 afk3"
       ]
     },
 
